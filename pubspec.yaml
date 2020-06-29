@@ -2,7 +2,7 @@ name: responsive_scaffold_card
 description: Scaffold responsivo para mobile, tablet e web
 version: 0.0.1
 author:
-homepage: github.com/gustavofagundespaixao
+homepage: https://github.com/gustavofagundespaixao/responsive_scaffold_card
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
